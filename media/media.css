@@ -1,0 +1,360 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+	/* banner style start here */
+#banner{
+	background-image: none;
+}
+.banner-header h2 {    
+    font-size: 25px;
+    margin: 60px 0 55px;
+}
+.banner-header p {  
+    font-size: 13px
+}
+.banner-header i{	
+	font-size: 20px;	
+	
+}
+	/* banner style end here */
+	/* kid-edu style start here */
+#kid-edu {
+    padding: 50px 0 50px;
+}
+.kid-edu-head h1 {   
+    font-size: 25px;
+}
+.kid-edu-img{
+	margin: 20px 0;
+}
+	/* kid-edu style end here */
+	/* kid-disiaration style start here */
+#disiaration{
+	padding: 50px 0 50px;
+}
+	/* kid-disiaration style end here */
+
+	/* frature style start here */
+#features {
+    padding: 50px 0 50px;
+}
+.single-feature {
+    margin-top: 20px;
+}
+.price {
+    top: 194px;
+    left: 210px;    
+}
+	/* frature style end here */
+
+	/* memorable style start here */
+#memorable {   
+    padding: 50px 0 50px;
+}
+.v-button {
+    padding-top: 40px;
+}
+	/* memorable style end here */
+
+	/* who-stand style start here */
+#who-stand {
+    padding: 50px 0 50px;  
+}
+.ws-content ul li a {
+    padding-right: 14px;
+}
+.ws-content h1 {   
+    padding-top: 15px;
+}
+	/* who-stand style end here */
+	/* counter style start here */
+#counter {
+    padding: 50px 0 50px;   
+}
+.counter {
+    padding: 15px 0;
+}
+	/* counter style end here */
+
+	/* timeline style start here */
+#timeline {
+    padding: 50px 0 50px;  
+}
+.event {    
+    text-align: center;
+}
+.timeline-e hr {    
+    margin-right: 45px;
+}
+.art h2 {    
+    padding: 10px 0;
+}
+
+	/* timeline style end here */
+	/* recent style start here */
+.timeline hr {    
+    margin-right: 90px;
+}
+.recent h1 {    
+    font-size: 22px;
+    padding-top: 15px;
+}
+	/* recent style end here */
+
+	/* footer style start here */
+#footer {    
+    padding: 50px 0 50px;
+    background-image:none;
+}
+footer p{	
+    padding: 10px 0;    
+}
+.contact h1 {  
+    padding-top: 15px;
+}
+.instragram hr {    
+    margin-bottom: 20px;
+}
+.contact hr {    
+    margin-bottom: 20px;
+}
+.signup hr {   
+    margin-bottom: 20px;
+}
+	/* footer style end here */
+}
+ 
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	/* header style start here */
+.logo{
+	width: 170px;
+}
+
+	/* header style end here */
+	/* banner style start here */
+.banner-header h2 {    
+    font-size: 32px;
+    margin: 120px 0 150px;
+
+}
+.banner-header p{
+	font-size: 15px;	
+}
+.banner-header i{	
+	font-size: 25px;	
+	
+}
+
+	/* banner style end here */
+	/* kid-edu style start here */
+#kid-edu {
+    padding: 50px 0 50px;
+}
+.kid-edu-img{
+	margin: 20px 0;
+}
+	/* kid-edu style end here */
+	/* kid-disiaration style start here */
+#disiaration{
+	padding: 50px 0 50px;
+}
+	/* kid-disiaration style end here */
+	/* frature style start here */
+#features {
+    padding: 50px 0 50px;
+}
+.single-feature {
+    margin-top: 20px;
+}
+	/* frature style end here */
+
+	/* memorable style start here */
+#memorable {   
+    padding: 50px 0 50px;
+}
+.v-button {
+    padding-top: 40px;
+}
+	/* memorable style end here */
+
+	/* who-stand style start here */
+#who-stand {
+    padding: 50px 0 50px;  
+}
+.ws-content ul li a {
+    padding-right: 14px;
+}
+	/* who-stand style end here */
+	/* counter style start here */
+#counter {
+    padding: 50px 0 50px;   
+}
+.counter{
+	padding:  20px 0;
+}
+	/* counter style end here */
+
+	/* timeline style start here */
+#timeline {
+    padding: 50px 0 0px;  
+}
+.timeline hr {    
+    margin-right: 50px;
+    margin-top: 37px;
+}
+.timeline-e hr {    
+    margin-right: 26px;
+}
+.art h2 {   
+    font-size: 20px;
+    padding: 10px 0;    
+}
+.art p {
+    font-size: 13px;
+}
+.event{	
+	text-align: center;
+}
+
+	/* timeline style end here */
+	/* recent style start here */
+.recent h1 {    
+    font-size: 22px;
+    padding-top: 15px;
+}
+	/* recent style end here */
+	/* footer style start here */
+#footer {    
+    padding: 50px 0 50px;
+    background-image:none;
+}
+footer p{	
+    padding: 10px 0;    
+}
+	/* footer style end here */
+
+} 
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	/* banner style start here */
+.banner-header h2{	
+	font-size: 34px;
+	margin: 100px 0 200px;
+}
+.banner-header i {
+    font-size: 30px;
+    color: #bbbbbb;
+}
+	/* banner style end here */
+	/* kid-edu style start here */
+#kid-edu{
+	padding: 80px 0 80px;
+}
+	/* kid-edu style end here */
+	/* kid-disiaration style start here */
+#disiaration{
+	padding: 80px 0 80px;
+}
+	/* kid-disiaration style end here */
+
+	/* feature style start here */
+#features {
+    padding: 80px 0 80px;
+}
+.single-feature p {    
+    font-size: 12px;
+}
+.card-body ul li {    
+    font-size: 14px;    
+    text-align: center;
+}
+	/* feature style end here */
+
+	/* memorable style start here */
+#memorable {   
+    padding: 80px 0 80px;
+}
+.v-button {
+    padding-top: 40px;
+}
+	/* memorable style end here */
+
+	/* who-stand style start here */
+#who-stand {
+    padding: 80px 0 80px;  
+}
+.ws-content ul li a {
+    padding-right: 14px;
+}
+	/* who-stand style end here */
+
+	/* counter style start here */
+#counter {
+    padding: 80px 0 80px;   
+}
+	/* counter style end here */
+
+	/* timeline style start here */
+#timeline {
+    padding: 80px 0 0px;  
+}
+.timeline-e hr {    
+    margin-right: 0px;
+}
+.timeline hr {    
+    margin-right: 155px;
+}
+	/* timeline style end here */
+
+	/* footer style start here */
+#footer {    
+    padding: 130px 0 50px;
+}
+.instragram hr {    
+    margin-bottom: 73px;
+}
+.contact ul li {    
+    padding: 5px 0;
+}
+.contact ul li:nth-child(1) i {
+    padding-right: 0px;
+}
+.contact ul li:nth-child(2) i {
+    padding-right: 0px;
+}
+.contact ul li:nth-child(3) i {
+    padding-right: 0px;
+}
+.n-icon ul li i {    
+    padding-right: 10px;
+}
+.logo-part p {   
+    padding: 0px 0;
+}
+.f-menu ul li a {    
+    font-size: 16px;    
+    padding: 0 0px;    
+}
+
+	/* footer style end here */
+
+
+
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	/* banner style start here */
+.banner-header h2{	
+	font-size: 45px;
+	margin: 190px 0 230px;
+}
+	
+	/* banner style end here */
+	
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  }
